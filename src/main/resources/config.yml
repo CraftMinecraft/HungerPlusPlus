@@ -1,0 +1,4 @@
+Hunger:
+  hunger_rate: 2
+  basal_metabolic_rate: 0.75
+  debug_mode: 1
